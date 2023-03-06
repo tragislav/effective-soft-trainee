@@ -1,0 +1,18 @@
+{
+  "header": {
+    "en_lang": "АНГЛ",
+    "ru_lang": "РУС",
+    "login": "Войти",
+    "logout": "Выйти"
+  },
+  "footer": {
+    "nav_item-1": "МАГАЗИН",
+    "nav_item-2": "КОЛЛЕКЦИИ",
+    "nav_item-3": "О НАС",
+    "nav_item-4": "ДОСТАВКА",
+    "nav_item-5": "ИНСТРУКЦИЯ",
+    "nav_item-6": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
+    "email_placeholder": "Email для связи с вами",
+    "watermark": "© 2022 Yonne. Все права защищены."
+  }
+}

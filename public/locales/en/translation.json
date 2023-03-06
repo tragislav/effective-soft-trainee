@@ -1,0 +1,18 @@
+{
+  "header": {
+    "en_lang": "EN",
+    "ru_lang": "RU",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "footer": {
+    "nav_item-1": "SHOP",
+    "nav_item-2": "COLLECTIONS",
+    "nav_item-3": "ABOUT",
+    "nav_item-4": "SHIPPING & RETURNS",
+    "nav_item-5": "TERMS OF USE",
+    "nav_item-6": "PRIVACY POLICY",
+    "email_placeholder": "Enter your email to subscribe",
+    "watermark": "© 2022 Yonne. All rights reserved."
+  }
+}
